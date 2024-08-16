@@ -167,7 +167,7 @@ module.exports = {
         {
           iconClass: 'icon-github',
           title: 'GitHub',
-          // link: 'https://github.com/xugaoyi',
+          link: 'https://github.com/kongqingm/kongqingm',
         },
         {
           iconClass: 'icon-erji',
@@ -180,8 +180,8 @@ module.exports = {
     // 页脚信息
     footer: {
       createYear: 2022, // 博客创建年份
-      copyrightInfo:
-        'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      // copyrightInfo:
+      //   'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
     },
 
     // 插入hmtl(广告)模块
