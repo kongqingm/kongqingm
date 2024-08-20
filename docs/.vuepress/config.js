@@ -39,7 +39,7 @@ module.exports = {
                 text: '测试',
                 link: '/test/',
                 items: [
-                    { text: 'jmeter', link: '/pages/9a7ee40fc232253e/' },
+                    { text: 'jmeter', link: '/pages/jmeter/' },
                 ],
             },
             {
