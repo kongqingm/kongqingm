@@ -32,7 +32,7 @@ module.exports = {
                 text: '后端',
                 link: '/server/',
                 items: [
-                    { text: 'java', link: '/pages/8309a5b876fc95e3/' },
+                    { text: 'python', link: '/pages/808b11/' },
                 ],
             },
             {

@@ -16,11 +16,11 @@ features: # 可选的
     imgUrl: /img/web.png # 可选
   - title: 后端
     details: html(5)/css(3)，前端页面相关技术
-    link: /ui/
+    link: /server/
     imgUrl: /img/ui.png
   - title: 测试
-    details: 技术文档、教程、技巧、总结等文章
-    link: /technology/
+    details: jmeter、fiddler、adb等测试相关技术
+    link: /test/
     imgUrl: /img/other.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
