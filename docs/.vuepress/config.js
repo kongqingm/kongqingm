@@ -20,9 +20,9 @@ module.exports = {
                 items: [
                     // 说明：以下所有link的值只是在相应md文件头部定义的永久链接（不是什么特殊编码）。另外，注意结尾是有斜杠的
                     {
-                        text: '前端文章',
+                        text: '学习笔记',
                         items: [
-                            { text: 'html', link: '/pages/0a4fd4/' },
+                            { text: '《前端基础学习》', link: '/web/html/' },
                         ],
                     },
 
@@ -32,19 +32,27 @@ module.exports = {
                 text: '后端',
                 link: '/server/',
                 items: [
-                    { text: 'python', link: '/pages/808b11/' },
+                    { text: '《python学习》', link: '/python/' },
+                    { text: '《Java学习》', link: '/Java/' },
+                    { text: '《MySQL学习》', link: '/pages/de47e6/' },
                 ],
             },
             {
                 text: '测试',
                 link: '/test/',
                 items: [
-                    { text: 'jmeter', link: '/pages/jmeter/' },
+                    { text: '《测试基础学习》', link: '/test/learn/' },
+                    { text: '《jmeter》', link: '/pages/jmeter/' },
+                    { text: '《fiddler》', link: '/pages/ef5626/' },
                 ],
             },
             {
                 text: '更多',
                 link: '/more/',
+                items: [
+                    { text: '《分享》', link: '/pages/0eb619/' },
+                    { text: '《Linux学习》', link: '/linux/' },
+                ],
             },
             { text: '关于', link: '/about/' },
             {
