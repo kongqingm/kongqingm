@@ -5,7 +5,7 @@ module.exports = {
     theme: 'vdoing', // 使用npm包主题
     // theme: require.resolve('../../theme-vdoing'), // 使用本地主题
     port: 7778,
-    title: "kongqing blog",
+    title: "学习分享",
     description: '己不由心，身又岂能由己！！！',
     // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
 
@@ -147,7 +147,8 @@ module.exports = {
         // 页脚信息
         footer: {
             createYear: 2022, // 博客创建年份
-            // copyrightInfo:
+
+            copyrightInfo: '豫ICP备2024101691号',
             //   'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
         },
 
